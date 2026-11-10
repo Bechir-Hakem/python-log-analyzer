@@ -1,0 +1,20 @@
+2026-11-08 08:15:22 INFO Server started successfully
+2026-11-08 08:16:10 INFO User alice logged in from 192.168.1.10
+2026-11-08 08:17:05 WARNING High memory usage detected
+2026-11-08 08:18:33 ERROR Login failed for user john from 192.168.1.15
+2026-11-08 08:19:01 ERROR Login failed for user john from 192.168.1.15
+2026-11-08 08:20:14 INFO User bob logged in from 192.168.1.20
+2026-11-08 08:21:45 ERROR Database connection failed
+2026-11-08 08:22:10 ERROR Login failed for user alice from 10.0.0.5
+2026-11-08 08:23:30 DEBUG Cache cleared
+2026-11-08 08:24:12 ERROR Login failed for user john from 192.168.1.15
+2026-11-08 08:25:50 WARNING CPU usage above 80%
+2026-11-08 08:26:18 ERROR Login failed for user mike from 10.0.0.5
+2026-11-08 08:27:40 ERROR Database connection failed
+2026-11-08 08:28:05 ERROR Login failed for user john from 192.168.1.15
+2026-11-08 08:29:11 INFO User alice logged out
+2026-11-08 08:30:25 ERROR Login failed for user alice from 10.0.0.5
+2026-11-08 08:31:42 ERROR Network timeout
+2026-11-08 08:32:17 ERROR Login failed for user mike from 10.0.0.5
+2026-11-08 08:33:09 INFO Backup completed successfully
+2026-11-08 08:34:55 ERROR Login failed for user john from 192.168.1.15
